@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Darshan Patel's CV 
+description: Darshan Patel's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://dcpatel.com/resume-page
+url: https://dcpatel.com/resume-page
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,15 +14,14 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  name: Darshan Patel
+  title: Analytical Chemist
+  address: Dallas, Texas, USA
+  email: darshankumar.patel@mavs.uta.edu
+  link: http://dcpatel.com
+#  github: ddbullfrog
+  linkedin: darshan9
+#  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
